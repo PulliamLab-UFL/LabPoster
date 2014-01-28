@@ -1,5 +1,5 @@
 # Becky Borchering
-#### Pulliam Lab
+#### Co-supervised by Scott McKinley and Juliet Pulliam
 #### Department of Mathematics
 #### Lab Member since Summer 2012
 
