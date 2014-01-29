@@ -5,7 +5,7 @@ Lab Poster
 
 On the poster, each lab member will be primarily associated with one project/theme. Here is a list of potential themes (feel free to edit). The people associated with each theme should develop content for the poster that includes 1-2 primary research questions, a brief description of approaches/tools, 1-2 key take-home points/findings (if possible at this stage), and a nice graphic (potentially 2 for more developed projects with results). Try to use material that you already have, rather than generating new material, to minimize the time you devote to this, but please coordinate with the rest of the group working on your theme. I've indicated tentative groups for each theme below, but you should feel free to modify which theme you're associated with (and the themes themselevs if you feel I've missed something). **Please add your materials to the repository by creating a folder for the theme and placing materials within the folder by 5PM on Friday.**
 
-- Zoonotic flaviviruses and mosquito ecology (Jennie, Biswadeep, Jess, Gaby, Ajit)
+- Zoonotic flaviviruses and mosquito ecology (Jennie, Biswadeep, Jess, Gaby, Ajit, Brooke)
 - Mosquito-borne human diseases (Tom, Nick)
 - Influenza (Cuc, Omar)
 - Chagas disease (Jake)
