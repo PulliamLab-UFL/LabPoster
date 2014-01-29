@@ -1,5 +1,7 @@
 # Research Questions
 > 1-2 primary research questions
+- Are spillover rabies infections from raccoons needed to explain the confirmed skunk and fox rabies cases in the northeast United States?
+- What combinations of phenomena could produce the seasonal trends found in rabies case data?
 
 # Approaches and tools
 > a brief description of approaches/tools
@@ -13,6 +15,7 @@
 
 # Findings
 >  1-2 key take-home points/findings
+- The observation process influences the trends in rabies case data and should be taken into account when using the data.
 
 # Graphics
 > a nice graphic (potentially 2 for more developed projects with results)
