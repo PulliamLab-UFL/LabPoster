@@ -1,6 +1,6 @@
 
-
 Ajit Kumar Karna
+ 
  Prof. Richard A. Bowen's Lab
  Department of Microbiology, Immunology and Pathology, Colorado State University
  Pulliam's Lab affiliate since Summer,2013
