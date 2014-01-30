@@ -1,8 +1,10 @@
 
-
-BROOKE BORGERT
-Pulliam Lab
-Biology
+##BROOKE BORGERT
+##
+##Pulliam Lab
+##
+##Departmemt of Biology
+##
 #### Lab member since Fall Spring 2012
 
 ## Theme
