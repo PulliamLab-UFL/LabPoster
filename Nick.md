@@ -11,6 +11,4 @@
 ## Lab-related travel
 - Half Moon Bay, CA; Workshop; RAPIDD Mark-Release-Recapture Meeting
 - Washington, DC; Conference; American Society of Tropical Medicine and Hygeine Annual Meeting
-- St. Petersburg, FL; Meeting; Malaria Elimination on Hispaniola Meeting
-- Ifakara, Tanzania; Fieldwork
-- Athens, GA; Conference; Ecology and Evolution of Infectious Disease
+- St. Petersburg, FL; Meeting; Malaria Elimination in Hispaniola Meeting
