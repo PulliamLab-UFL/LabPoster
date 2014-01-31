@@ -1,15 +1,11 @@
 # Research Questions
-> 1-2 primary research questions
+- What factors that drive specific regional differences in dengue dynamics?
+- What is the best use of interventions like vaccine and vector control that are only partially effective?
 
 # Approaches and tools
-> a brief description of approaches/tools
-
-- R and R studio
-- GitHub
-- Differential equation models (and stochastic analogues such as the Gillespie algorithm)
-- Partially observed Markov process models
-- Maximum likelihood and model selection via information criteria
-- Analysis of time series data
+- Integration of diverse data sources including satellite imagery, censuses, reported case and serosurvey records
+- Individual (human and mosquito) stochastic simulation
+- C++/R/Python/JavaScript
 
 # Findings
 >  1-2 key take-home points/findings
