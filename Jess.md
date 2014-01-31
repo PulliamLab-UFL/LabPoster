@@ -1,7 +1,7 @@
 # Jessica Rowland
 #### Graduate student
 #### Department of Environmental and Global Health
-#### Pulliam Lab member since Summer 2012
+#### Pulliam Lab Member since Summer 2012
 
 ## Theme
 - Zoonotic flaviviruses and mosquito ecology
