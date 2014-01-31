@@ -1,8 +1,7 @@
-
 # Cuc Tran 
 #### Morris Lab
 #### Department of Enviromental and Global Health 
-#### Pulliam Lab affiliate since Spring 2013
+#### Pulliam Lab Affiliate since Spring 2013
 
 ## Theme
 - Influenza 
