@@ -1,7 +1,7 @@
 # Jake Ball
-#### Stepp Lab (Ethnobiology Lab)
+#### Grapduate student, Stepp Lab (Ethnobiology Lab)
 #### Department of Anthropology
-#### Pulliam Lab affiliate since Spring 2013
+#### Pulliam Lab Affiliate since Spring 2013
 
 ## Theme
 - Chagas Disease
