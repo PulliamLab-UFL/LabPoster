@@ -19,6 +19,5 @@
 # Graphics
 > a nice graphic (potentially 2 for more developed projects with results)
 
-#### Potential graphics
 - Faridpur case network
-- Transmission probability estimate plot/s
+- Transmission probability estimate plot
