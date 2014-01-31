@@ -1,7 +1,7 @@
 # Luke Trimmer-Smith
-#### Pulliam Lab
+#### Graduate student
 #### Department of Biology
-#### Lab member since Fall 2012
+#### Pulliam Lab Member since Fall 2012
 
 ## Theme
 - Examining viral host jumps in a vertebrate model
