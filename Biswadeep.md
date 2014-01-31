@@ -1,9 +1,7 @@
 
-
 # Biswadeep Dhar
-#### Pulliam Lab
 #### Department of Biology
-#### Lab Member since Fall,2012
+#### Pulliam Lab Member since Fall 2012
 
 ## Theme
 - Zoonotic flavivirues and mosquito ecology
