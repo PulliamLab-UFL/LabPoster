@@ -1,7 +1,7 @@
 # Becky Borchering
-#### Co-supervised by Scott McKinley and Juliet Pulliam
+#### Graduate student, Co-supervised by Scott McKinley and Juliet Pulliam
 #### Department of Mathematics
-#### Lab Member since Summer 2012
+#### Pulliam Lab Member since Summer 2012
 
 ## Theme
 - Rabies
