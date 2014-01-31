@@ -1,11 +1,10 @@
-
 ##BROOKE BORGERT
 ##
 ##Pulliam Lab
 ##
 ##Departmemt of Biology
 ##
-#### Lab member since Fall Spring 2012
+#### Lab member since Spring 2012
 
 ## Theme
 - Zoonotic flaviviruses and mosquito ecology
