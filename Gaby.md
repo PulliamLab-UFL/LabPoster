@@ -1,8 +1,7 @@
-
 # Gabriela Blohm
 #### Ponciano Lab
 #### Department of Biology
-#### Pulliam Lab affiliate since 2013
+#### Pulliam Lab Affiliate since Fall 2013
 
 ## Theme
 - Mosquito-borne human diseases
