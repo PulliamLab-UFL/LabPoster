@@ -7,7 +7,7 @@
 
 - Reciprocal transplant experimental design
 - Collect transmission and disease data from a RNA virus infection in and between two fish species 
-- Examin how density influences transmission  
+- Examine how density influences transmission  
 - q-PCR and virus isolation 
 - R and R studio
 - GitHub
