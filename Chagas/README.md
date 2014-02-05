@@ -19,5 +19,4 @@
 # Graphics
 > a nice graphic (potentially 2 for more developed projects with results)
 
-#### Potential graphics
-- transmission cycle?
+- http://www.plosntds.org/article/browseIssue.action?issue=info%3Adoi%2F10.1371%2Fissue.pntd.v02.i05
